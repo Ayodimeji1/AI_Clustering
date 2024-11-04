@@ -14,8 +14,6 @@ This project focuses on applying clustering algorithmson a socio-economic datase
 - [Dependencies](#dependencies)
 - [Configuration](#configuration)
 - [Project Details](#project-details)
-- [Troubleshooting](#troubleshooting)
-- [Contributors](#contributors)
 - [License](#license)
 
 ## Features
@@ -27,12 +25,12 @@ This project focuses on applying clustering algorithmson a socio-economic datase
 
 ## Project Structure
 
-\`\`\`plaintext
+```
 Clustering-main/
 │
 ├── Clustering.ipynb                        # Jupyter Notebook with clustering implementation
 └── README.md                                # Project documentation
-\`\`\`
+```
 
 ## Installation
 
@@ -43,10 +41,10 @@ Clustering-main/
 ### Setup
 
 1. **Clone the repository**:
-   \`\`\`bash
-   git clone <repository-url>
+   ```
+   git clone https://github.com/Ayodimeji1/clustering.git
    cd Clustering-main
-   \`\`\`
+   ```
 
 2. **Install the required packages**:
    ```
