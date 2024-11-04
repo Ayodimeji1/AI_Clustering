@@ -1,7 +1,7 @@
 ## Overview
 This repository contains a Jupyter notebook that demonstrates clustering analysis on a socio-economic dataset to understand patterns and relationships between various indicators, such as income, child mortality, imports, exports, and GDP. The project aims to identify clusters of countries based on similar characteristics, enabling insights into their socio-economic conditions.
 
-Features
+## Features
 
 Exploratory Data Analysis (EDA) to understand distributions and correlations
 
